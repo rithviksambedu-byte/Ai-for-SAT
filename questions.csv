@@ -1,0 +1,11 @@
+id,section,topic,question,choices,answer,explanation
+1,Math,Algebra,"If 3x+5=20, what is x?","['5','6','7','8']","5","Solve: 3x=15 -> x=5."
+2,Reading,Context & Vocabulary,"In context, the word 'novel' most nearly means:","['strange','book','new','long']","new","'Novel' can mean new or original in context."
+3,Math,Geometry,"What is the area of a circle with radius 3? (Use π)","['9π','6π','3π','18π']","9π","Area = πr^2 = π*9 = 9π."
+4,Writing,Grammar,"Choose the grammatically correct sentence:","['She dont like it','She doesn’t likes it','She doesn’t like it','She not like it']","She doesn’t like it","Correct subject-verb agreement and contraction."
+5,Math,Algebra,"Solve for y: 2y-4=10","['y=3','y=6','y=7','y=2']","y=7","2y=14 -> y=7."
+6,Reading,Inference,"If a passage implies that the character is frugal, they are likely:","['wasteful','careful with money','generous','reckless']","careful with money","Inference from word meaning and context."
+7,Math,Data Analysis,"Mean of [2,4,6,8,10] is:","['5','6','7','8']","6","Sum=30, 30/5=6."
+8,Writing,Punctuation,"Correct punctuation:","['Lets eat, Grandma','Lets eat Grandma','Let’s eat, Grandma','Lets eat Grandma!']","Let’s eat, Grandma","Comma clarifies meaning and contraction uses apostrophe."
+9,Math,Trigonometry,"sin(30°) equals:","['1/2','√2/2','√3/2','1']","1/2","Standard trig value."
+10,Reading,Main Idea,"Main idea questions ask:","['Details only','Author’s purpose','Vocabulary only','None']","Author’s purpose","Main idea concerns central purpose or thesis."
